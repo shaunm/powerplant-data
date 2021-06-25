@@ -3214,7 +3214,7 @@ UTILITYID,UTILNAME,STATE_CODE,YEAR,MONTH,TOT_REV (Thousand $),TOT_SALES (MwH), T
 15040,City of Pierre - (SD),SD,2012,12,1151.71,15509.91,7229
 15045,Pike County Light & Power Co,PA,2012,1,330.88,2686.3,1527
 15045,Pike County Light & Power Co,PA,2012,2,299.86,2427.06,1554
-15045,Pike County Light & Power Co,PA,2012,3,  -   ,  -   ,1569
+15045,Pike County Light & Power Co,PA,2012,3,0,0,1569
 15045,Pike County Light & Power Co,PA,2012,4,157.79,2136.02,1585
 15045,Pike County Light & Power Co,PA,2012,5,217.8,2370.38,1593
 15045,Pike County Light & Power Co,PA,2012,6,257.51,2469.33,1597
