@@ -1,4 +1,4 @@
-## US PowerPlant Data:
+## US Power Plant Data:
 
 ### This repository contains aggregated US electrical utilities data.
 
